@@ -1,0 +1,62 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.podcasts {
+  text-align: center;
+  display: inline-block;
+  margin: 3%;
+  width: 80%;
+}
+
+.linkTo {
+  margin: 3%;
+}
+
+body {
+  background-color: #393E46;
+}
+
+h1 {
+  margin: 50px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  color: #4ECCA3;
+}
+
+p {
+  font-size: 2rem;
+  color: #4ECCA3;
+  font-family: 'Indie Flower', cursive;
+}
+
+
+button {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: #FFF;
+  background-color: #4ECCA3;
+  padding: 2%;
+  border-style: none;
+  border-radius: 5%;
+}
+
+button:hover {
+  background-color: #ffde25;
+}
+
+img {
+  border-radius: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  font-size: 2rem;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+}
